@@ -3,7 +3,7 @@ Repository for my contribution (ID: YMESM) to the **Multi100 Project** of the Ce
 
 `ACT_IllLvlMainWithMalProbs_FINAL_pub.dta`: the data of the original study
 
-`multi100.Rmd`: report and analysis script
+`multi100.Rmd`: the report and analysis script
 
 `multi100.pdf`: the report
 
