@@ -15,7 +15,7 @@ The `.Rmd` file requires the following software and their dependencies:
  - `R Markdown`: https://rmarkdown.rstudio.com/
  - `renv`: https://cran.r-project.org/web/packages/renv/index.html
 
-The report lists all `R` packages, their dependencies, and version number used for this project.
+The report lists and cites all `R` packages, their dependencies, and version number used for this project.
 
 Additional system details:
  - `version  R version 4.1.2 (2021-11-01)`
